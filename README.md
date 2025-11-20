@@ -37,13 +37,13 @@ It is a beginner-friendly example to understand basic regression and model evalu
 
 ---
 
-## 📊 Model Performance (From This Project)
+##  Model Performance (From This Project)
 - **MSE**: (Shown in notebook when run)  
 - **R² Score**: (Shown in notebook when run)
 
 ---
 
-## 📈 Visualization
+##  Visualization
 The notebook includes a scatter plot showing:
 
 - Actual Sepal Width  
@@ -52,7 +52,7 @@ The notebook includes a scatter plot showing:
 
 ---
 
-## ▶️ How to Run the Code
+##  How to Run the Code
 
 ### **Run the notebook**
 ```bash
